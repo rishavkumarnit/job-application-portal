@@ -3,7 +3,7 @@ import Home from "./components/Home";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { createContext } from "react";
 import Profile from "./components/Profile";
-import { store } from "./components/slices/store";
+import { store } from "./components/slices/Store";
 import { Provider } from "react-redux";
 import Apply from "./components/Apply"
 import Applications from "./components/Applications";
