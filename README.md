@@ -6,7 +6,7 @@ The project simulates a real-world job application flow with multi-step forms, v
 ---
 
 ## 🚀 Live Demo
-🔗 **Deployed App:** https://job-application-portal-6uyd7sk5d.vercel.app/
+🔗 **Deployed App:** https://job-application-portal-eight.vercel.app/
 
 ---
 
